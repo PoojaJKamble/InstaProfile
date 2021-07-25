@@ -1,2 +1,2 @@
 # InstaProfile
-Download Instagram Profile using module
+Download Instagram Profile Picture using module
